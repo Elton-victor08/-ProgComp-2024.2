@@ -1,5 +1,6 @@
 #aluno: Elton Victor Da Costa - 20241014050024
 #aluna: Kaillany Felix Souza - 20242014050021
+
 import datetime
 
 # Capturar a data de hoje usando datetime
